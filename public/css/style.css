@@ -1,0 +1,30 @@
+.homePasta{
+  width: 100%;
+  display: inline;
+}
+
+h1
+ {
+  display:inline;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 400%;
+}
+
+.hpLinks{
+  display: inline;
+}
+
+.aboutFoto{
+  width:100%;
+}
+
+.pastaFoto{
+  width:100%;
+}
+
+a{
+  text-decoration: none;
+}
